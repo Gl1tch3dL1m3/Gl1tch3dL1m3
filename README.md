@@ -3,7 +3,7 @@
 - 👀 I’m interested in Developing Discord bots!
 - 📸 My social sites:
 - Discord: glitchedlime
-- Instagram: @glitchedlime
+- Instagram: glitchedlime
 
 <!---
 Gl1tch3dL1m3/Gl1tch3dL1m3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
