@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gl1tch3dL1m3
-- 🤖 My current project is DisPong!
-- 👀 I’m interested in Developing Discord bots!
+- 🤖 Discord bot developer in Literally Creations
 - 📸 My social sites:
 - Discord: glitchedlime
 - Instagram: glitchedlime
